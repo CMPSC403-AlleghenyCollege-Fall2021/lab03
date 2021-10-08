@@ -56,7 +56,7 @@ The grade that a student receives on this assignment will have the following com
 
 - **Mastery of Technical Knowledge and Skills [up to 85%]**: Students will receive a full portion of this part of their assignment grade when their completed assignments on TryHackMe for this lab reveal that they have mastered all of the technical knowledge and skills developed during the completion of this lab. As a part of this grade, the instructor will assess aspects of the lab including, but not limited to, the number of questions completed and the points received on TryHackMe platform.
 
-All grades for this project will be reported through a student's gradebook GitHub repository and the feedback pull request in this repository.
+All grades for this project will be reported through a student's gradebook GitHub repository and the solution will be posted after the deadline in the [starter lab 02 repository](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/lab03).
 
 ## Receiving Assistance
 

@@ -30,23 +30,23 @@ Throughout the completion of this project you must adhere to the [community guid
 
 In this lab you will continue with the hash identification and cracking exploration, specifically by experimenting how to crack hashes by using available tools. You are then invited to explore the concept of encryption and decryption by implementing an algorithm of your choice in Python on this topic. Make sure you add automated test cases to validate your implementation, one of which should test your implementation by encrypting an English prose with at least 200 characters. Finally, you are invited to reflect on your experiences in a Markdown file given in this repository.
 
-1. Lab 2.1: [Hash Cracking](https://tryhackme.com/jr/alleghenycrackthehash5o)
-2. Lab 2.2:  Create a Python program that encrypts a secret message in an algorithm of your choice. Then, test your implementation and demontrate how the encryption and decryption works.
+1. Lab 3.1: [Hash Cracking](https://tryhackme.com/jr/alleghenycrackthehash5o)
+2. Lab 3.2:  Create a Python program that encrypts a secret message in an algorithm of your choice. Then, test your implementation and demontrate how the encryption and decryption works.
 
 ## Required Deliverables
 
 This assignment invites you to submit the following deliverables.
 
-1. Lab 2.1 on TryHackMe.
-3. Lab 2.2: A Python program with an encyrption algorithm implementation. The original Python program and its experimentation (testing) submitted via your lab 03 repository.
+1. Lab 3.1 on TryHackMe.
+3. Lab 3.2: A Python program with an encyrption algorithm implementation. The original Python program and its experimentation (testing) submitted via your lab 03 repository.
 4. Reflection document submitted via your lab03 repository.
 
 ## Recommended Timeline
 
 To take the best advantage of the content covered in class, it is recommended that you scaffold the completion of lab 3 in the following manner:
 
-1. Complete Lab 2.1 before lab on Friday, October 15th.
-2. Complete Lab 2.2 before lab on Friday, Octber 22nd.
+1. Complete Lab 3.1 before lab on Friday, October 15th.
+2. Complete Lab 3.2 before lab on Friday, Octber 22nd.
 
 ## Assignment Assessment
 

@@ -16,11 +16,11 @@
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this repository contains the assignment for Laboratory 3 assignment in Computer Science 403.
 
-This laboratory assignment invites you to work individually to participate in the hash identification and hash cracking activities on TryHackMe, and to create and test an encyption and decryption in a Python program. You are also responsible for writing a detailed reflection, stored in the file `reflection.md`. This is a Markdown file that must adhere to the standards described in the [Markdown Syntax Guide](https://guides.github.com/features/mastering-markdown/).
+This laboratory assignment invites you to work individually to participate in the hash identification and hash cracking activities on TryHackMe, and to create and test an encryption and decryption in Python. You are also responsible for writing a detailed reflection, stored in the file `reflection.md`. This is a Markdown file that must adhere to the standards described in the [Markdown Syntax Guide](https://guides.github.com/features/mastering-markdown/).
 
 ## Objectives
 
-To further understanding of encyption and hashing. To practice cracking hashes, explore hashing vulnerabilities, and to experiment with a variety of tools available for exploitation.
+To further understanding of encyption and hashing. To practice cracking hashes, explore hashing vulnerabilities, and to experiment with a variety of tools available for exploitation. To gain deeper understanding into one of the encryption algorithms.
 
 ## Code of Conduct
 
@@ -28,18 +28,18 @@ Throughout the completion of this project you must adhere to the [community guid
 
 ## Assignment Specification
 
-In this lab you will continue with the hash identification and cracking exploration, specifically by experimenting how to crack hashes by using available tools. You are then invited to explore the concept of encryption and decryption by implementing an algorithm of your choice in Python on this topic. Then, you are to experiment with your program by partnering with a colleague in class to send each other secure meassages. Finally, you are invited to reflect on your experiences in a Markdown file given in this repository.
+In this lab you will continue with the hash identification and cracking exploration, specifically by experimenting how to crack hashes by using available tools. You are then invited to explore the concept of encryption and decryption by implementing an algorithm of your choice in Python on this topic. Make sure you add automated test cases to validate your implementation, one of which should test your implementation by encrypting an English prose with at least 200 characters. Finally, you are invited to reflect on your experiences in a Markdown file given in this repository.
 
 1. Lab 2.1: [Hash Cracking]()
-2. Lab 2.2:  Create a Python program that encrypts a secret message in an algorithm of your choice. Then, demontrate how the encryption and decryption can work to send secure messages.
+2. Lab 2.2:  Create a Python program that encrypts a secret message in an algorithm of your choice. Then, test your implementation and demontrate how the encryption and decryption works.
 
 ## Required Deliverables
 
 This assignment invites you to submit the following deliverables.
 
 1. Lab 2.1 on TryHackMe.
-3. Lab 2.2: A Python program with an encyrption algorithm implementation. The original Python program and its exploitation submitted via your lab 03 repository.
-4. Reflection document submitted via your lab02 repository.
+3. Lab 2.2: A Python program with an encyrption algorithm implementation. The original Python program and its experimentation (testing) submitted via your lab 03 repository.
+4. Reflection document submitted via your lab03 repository.
 
 ## Recommended Timeline
 
@@ -56,7 +56,7 @@ The grade that a student receives on this assignment will have the following com
 
 - **Mastery of Technical Knowledge and Skills [up to 85%]**: Students will receive a full portion of this part of their assignment grade when their completed assignments on TryHackMe for this lab reveal that they have mastered all of the technical knowledge and skills developed during the completion of this lab. As a part of this grade, the instructor will assess aspects of the lab including, but not limited to, the number of questions completed and the points received on TryHackMe platform.
 
-All grades for this project will be reported through a student's gradebook GitHub repository and the solution will be posted after the deadline in the [starter lab 02 repository](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/lab03).
+All grades for this project will be reported through a student's gradebook GitHub repository and the solution will be posted after the deadline in the [starter lab 03 repository](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/lab03).
 
 ## Receiving Assistance
 

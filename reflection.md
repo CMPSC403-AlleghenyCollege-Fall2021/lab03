@@ -2,13 +2,20 @@
 
 ## Lab 3.2
 
-- What is your secret message? 
+### Which algorithm did you use? Briefly (in 3-5 sentences) explain the general idea behind the algorithm.
+TODO
 
-- Which algorithm did you use?
+### What was your testing strategy?
+TODO
 
-- Who was your random partner?
+### What steps must one take to run your program?
+TODO
 
-- What is their decrypted message?
+### Include the sample output.
+
+```
+TODO
+```
 
 ## Challenges
 

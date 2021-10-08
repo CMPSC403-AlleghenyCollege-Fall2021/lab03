@@ -30,7 +30,7 @@ Throughout the completion of this project you must adhere to the [community guid
 
 In this lab you will continue with the hash identification and cracking exploration, specifically by experimenting how to crack hashes by using available tools. You are then invited to explore the concept of encryption and decryption by implementing an algorithm of your choice in Python on this topic. Make sure you add automated test cases to validate your implementation, one of which should test your implementation by encrypting an English prose with at least 200 characters. Finally, you are invited to reflect on your experiences in a Markdown file given in this repository.
 
-1. Lab 2.1: [Hash Cracking]()
+1. Lab 2.1: [Hash Cracking](https://tryhackme.com/jr/alleghenycrackthehash5o)
 2. Lab 2.2:  Create a Python program that encrypts a secret message in an algorithm of your choice. Then, test your implementation and demontrate how the encryption and decryption works.
 
 ## Required Deliverables
